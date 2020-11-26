@@ -1,0 +1,17 @@
+h1 a, h2 a {
+    color: #5F5980;
+    font-family: 'Nerko One', cursive;
+}
+
+body {
+    padding-left: 15px;
+    background-color: #DFDFDF;
+}
+
+.page-header h1 {
+	margin-left: 40px;
+}
+
+.falafel {
+	padding: 0;
+}
